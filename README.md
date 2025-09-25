@@ -33,10 +33,6 @@ Desarrollador Full Stack enfocado en crear productos robustos y simples. Experie
   - Subida de imágenes con Multer + Cloudinary; documentación con Swagger
   - Stack: NestJS + TypeORM + PostgreSQL + Docker
 
-## Qué me interesa
-- Tiempo real, mapas y DX
-- Arquitecturas limpias, observabilidad y performance
-
 ## Contacto
 - Email: ignacioaguirre.site@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ignacioaguirresite/
