@@ -3,7 +3,7 @@
 Full Stack Web Developer — React/Next.js · Node.js/NestJS · TypeScript · MongoDB/PostgreSQL · Docker  
 Santa Fe, Argentina
 
-[🌐 Portafolio](https://ignacioaguirre.site) • [💼 LinkedIn](https://www.linkedin.com/in/ignacioaguirresite/) • [🐙 GitHub](https://github.com/nachooaguirre) • [✉️ Email](mailto:ignacioaguirre.site@gmail.com)
+[🌐 Portafolio](https://ignacioaguirre.site) • [💼 LinkedIn](https://www.linkedin.com/in/ignacioaguirresite/) • [✉️ Email](mailto:ignacioaguirre.site@gmail.com)
 
 ---
 
